@@ -30,6 +30,6 @@ An interactive, data-driven dashboard built with **Python**, **Streamlit**, and 
 1. **Clone this repo:**
 
 ```bash
-git clone https://github.com/yourusername/streamstat-netflix-eda.git
-cd streamstat-netflix-eda
+git clone https://github.com/yourusername/Netflix-content-analysis.git
+cd Netflix-content-analysis
 
